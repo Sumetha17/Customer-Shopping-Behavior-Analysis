@@ -1,20 +1,12 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
-
-# **🎥 Watch this [YouTube video](https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3) to implement the full project from scratch:**  
-[![Advanced Data Analysis Portfolio Project using Retail Customer Data](https://github.com/user-attachments/assets/abbb6371-a0b2-4bec-a304-7c7da98658b6)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
-🔗 *Link to Video:* [Watch on Youtube](https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3)
-
-
 ## 📌 Project Overview
+
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+✅ Data Preparation, Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
 ✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 
@@ -22,71 +14,30 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
+## Tools and Technologies
+- **Python:** Pandas, NumPy, data cleaning, and exploratory data analysis
+- **SQL:** PostgreSQL queries for business analysis
+- **Power BI:** Interactive dashboard and data visualization
+- **Jupyter Notebook:** Analysis workflow
 
-## 🛠️ How to Use This Project
+## Project Workflow
+1. Data loading and exploration
+2. Data cleaning and missing-value treatment
+3. Feature engineering and customer segmentation
+4. SQL-based business analysis
+5. Power BI dashboard development
+6. Business recommendations and reporting
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+## Business Recommendations
+- Encourage subscriptions through exclusive benefits.
+- Reward repeat customers with loyalty programs.
+- Review discount strategies to balance sales and profitability.
+- Promote highly rated and popular products.
+- Use customer segments to improve targeted marketing.
 
-    This file contains:
-
-      - Data Import
-
-      - Data exploration
-
-      - Data cleaning
-
-      - Connection to SQL Database
-  
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
-
-      - Create a database in SQL
-
-      - Run Python code to load data into SQL database
-  
-      - Open **customer_behavior_sql_queries.sql**
-  
-      - Answer Business Questions using SQL Queries 
-      
-4. **Connect the SQL Database to Power BI**
-
-      - Open **customer_behavior_dashboard.pbix**
-   
-      - Create interactive dashboard in Power BI
-  
-6. **Create Project Report and Presentation**
-
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
-
-## 📜 License
-
-MIT — feel free to fork, star, and use in your portfolio.
-
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
-- Beginner-friendly tutorials, real-world projects, job and career advice
-
-📺 Instagram: [datacareerschool](https://www.instagram.com/datacareerschool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
-
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
-
-
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+## Project Files
+- `Customer_Shopping_Behavior_Analysis.ipynb` — Python analysis
+- `customer_behavior_sql_queries.sql` — SQL queries
+- `customer_behavior_dashboard.pbix` — Power BI dashboard
+- `customer_shopping_behavior.csv` — Dataset
+- Project report 
